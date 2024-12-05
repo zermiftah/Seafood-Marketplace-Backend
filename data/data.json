@@ -1,0 +1,137 @@
+[
+  {
+    "Product_Name": "Salmon Fillet",
+    "Product_Price": 15.99,
+    "Product_Category": "Fish",
+    "Categories": "New Arrival",
+    "Discount": 0,
+    "Product_Image": "salmon_fillet.jpg",
+    "Description": "Fresh and tender salmon fillet, perfect for grilling or baking."
+  },
+  {
+    "Product_Name": "Shrimp Cocktail",
+    "Product_Price": 12.49,
+    "Product_Category": "Shrimp",
+    "Categories": "Discount",
+    "Discount": 20,
+    "Product_Image": "shrimp_cocktail.jpg",
+    "Description": "Delicious shrimp cocktail served with a tangy dipping sauce, ideal as an appetizer."
+  },
+  {
+    "Product_Name": "Mussels in Shell",
+    "Product_Price": 18.00,
+    "Product_Category": "Mussets",
+    "Categories": "No Category",
+    "Discount": 0,
+    "Product_Image": "MusselsinShell.jpg",
+    "Description": "Fresh mussels in their shells, perfect for steaming or adding to your favorite seafood dishes."
+  },
+  {
+    "Product_Name": "Tuna Sashimi",
+    "Product_Price": 22.75,
+    "Product_Category": "Fish",
+    "Categories": "Discount",
+    "Discount": 30,
+    "Product_Image": "TunaSashimi.jpg",
+    "Description": "Premium, raw tuna sashimi slices, a delicate and flavorful treat for sushi lovers."
+  },
+  {
+    "Product_Name": "Shrimp Tempura",
+    "Product_Price": 10.99,
+    "Product_Category": "Shrimp",
+    "Categories": "Discount",
+    "Discount": 40,
+    "Product_Image": "ShrimpTempura.jpg",
+    "Description": "Crispy battered shrimp tempura, a perfect combination of crunch and flavor."
+  },
+  {
+    "Product_Name": "Cod Fish Fillet",
+    "Product_Price": 14.99,
+    "Product_Category": "Fish",
+    "Categories": "New Arrival",
+    "Discount": 0,
+    "Product_Image": "CodFishFillet.jpg",
+    "Description": "White, flaky cod fillet, a versatile fish ideal for grilling, baking, or pan-searing."
+  },
+  {
+    "Product_Name": "Lobster Tail",
+    "Product_Price": 25.00,
+    "Product_Category": "Shrimp",
+    "Categories": "Discount",
+    "Discount": 50,
+    "Product_Image": "LobsterTail.jpg",
+    "Description": "Succulent lobster tail, perfect for grilling, steaming, or broiling for an indulgent meal."
+  },
+  {
+    "Product_Name": "Clams in Shell",
+    "Product_Price": 9.99,
+    "Product_Category": "Mussets",
+    "Categories": "No Category",
+    "Discount": 0,
+    "Product_Image": "ClamsinShell.png",
+    "Description": "Fresh clams in their shells, ideal for steaming or adding to pasta and chowder."
+  },
+  {
+    "Product_Name": "Octopus Tentacle",
+    "Product_Price": 19.50,
+    "Product_Category": "Fish",
+    "Categories": "New Arrival",
+    "Discount": 0,
+    "Product_Image": "OctopusTentacle.png",
+    "Description": "Tender and flavorful octopus tentacle, perfect for grilling, stewing, or adding to Mediterranean dishes."
+  },
+  {
+    "Product_Name": "Fish Fillet Mix",
+    "Product_Price": 13.25,
+    "Product_Category": "Fish",
+    "Categories": "Discount",
+    "Discount": 10,
+    "Product_Image": "FishFilletMix.jpg",
+    "Description": "A variety of fresh fish fillets, ideal for creating mixed seafood dishes or fish tacos."
+  },
+  {
+    "Product_Name": "Crab Meat",
+    "Product_Price": 16.50,
+    "Product_Category": "Shrimp",
+    "Categories": "No Category",
+    "Discount": 0,
+    "Product_Image": "CrabMeat.jpg",
+    "Description": "Sweet and tender crab meat, perfect for making crab cakes or adding to salads and pasta."
+  },
+  {
+    "Product_Name": "Shrimp Scampi",
+    "Product_Price": 12.99,
+    "Product_Category": "Shrimp",
+    "Categories": "Discount",
+    "Discount": 30,
+    "Product_Image": "ShrimpScampi.jpg",
+    "Description": "Juicy shrimp in a garlicky butter sauce, a delicious dish to serve over pasta or with bread."
+  },
+  {
+    "Product_Name": "Seafood Paella",
+    "Product_Price": 28.75,
+    "Product_Category": "Mussets",
+    "Categories": "New Arrival",
+    "Discount": 0,
+    "Product_Image": "SeafoodPaella.jpg",
+    "Description": "A flavorful seafood paella with mussels, shrimp, and other fresh seafood, seasoned with saffron and spices."
+  },
+  {
+    "Product_Name": "Grilled Salmon",
+    "Product_Price": 17.00,
+    "Product_Category": "Fish",
+    "Categories": "Discount",
+    "Discount": 15,
+    "Product_Image": "GrilledSalmon.jpg",
+    "Description": "Perfectly grilled salmon, rich in flavor and ideal for serving with a side of vegetables or rice."
+  },
+  {
+    "Product_Name": "Shrimp Fried Rice",
+    "Product_Price": 8.50,
+    "Product_Category": "Shrimp",
+    "Categories": "No Category",
+    "Discount": 0,
+    "Product_Image": "ShrimpFriedRice.jpg",
+    "Description": "Fragrant shrimp fried rice with vegetables, a quick and satisfying meal."
+  }
+]
