@@ -1,0 +1,24 @@
+[
+    {
+      "Username": "Bryan",
+      "Password": "happyday113",
+      "Freezer": [
+        {
+          "Product_Name": "Octopus Tentacle",
+          "Product_Category": "Fish",
+          "Product_Image": "OctopusTentacle.png",
+          "Product_Price": 19.5,
+          "Count": 4,
+          "Discount": 0
+        },
+        {
+          "Product_Name": "Cod Fish Fillet",
+          "Product_Category": "Fish",
+          "Product_Image": "CodFishFillet.jpg",
+          "Product_Price": 14.99,
+          "Count": 3,
+          "Discount": 0
+        }
+      ]
+    }
+  ]
